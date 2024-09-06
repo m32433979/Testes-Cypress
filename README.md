@@ -21,8 +21,7 @@ Este repositório contém testes automatizados para o site [Automation Exercise]
 4. **Exclusão de Produto do Carrinho**
    - Verifica a exclusão de um produto no carrinho e valida se a mensagem "Cart is empty" aparece.
    
-5. **Vídeo dos testes**
-   - (https://drive.google.com/file/d/1uJvCZkVkfmy8hZKatsq7dNfsVlNGoAsk/view)
+5. [**Vídeo dos testes**](https://drive.google.com/file/d/1uJvCZkVkfmy8hZKatsq7dNfsVlNGoAsk/view)
 
 ## Como Executar os Testes
 
